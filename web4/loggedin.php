@@ -1,5 +1,5 @@
 <?php
-   // test cookies if is set, display if set
+  
 ?>
 <html lang="en">
 <head>
